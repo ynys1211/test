@@ -1,4 +1,4 @@
-## flower_Deeplearing
+## flower_Deeplearning
 ***
 AI 프로젝트
 
